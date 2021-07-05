@@ -1,0 +1,13 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+.orange{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(to right, skyblue, blue);
+    padding: 15px;
+    border-radius: 30px;
+}
