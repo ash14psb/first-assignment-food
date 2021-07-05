@@ -1,11 +1,37 @@
 body{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bolder;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700px;
+    margin: 0;
+}
+.top-bg{
+    background-image: url(images/top-bg.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
 }
 .orange{
     color: orange;
 }
-a{
+.section{
+    display: flex;
+    width: 100%;
+}
+.half-width{
+    width: 50%;
+    margin-left: 50px;
+}
+.half-width img{
+    width: 80%;
+    margin: 20px;
+}
+.para{
+    font-size: 20px;
+    font-weight: 300;
+    color: gray;
+}
+.Link{
     text-decoration: none;
     background-image: linear-gradient(to right, skyblue, blue);
     padding: 15px;
