@@ -43,7 +43,7 @@ h2{
     margin-right: 3%;
     padding: 20px 20px 0px 20px;
     border-radius: 30px;
-    box-shadow: 10px 10px 40px red;
+    box-shadow: 10px 10px 40px deeppink;
 }
 .one-third img{
     width: 100%;
@@ -70,7 +70,8 @@ h2{
 }
 .Link{
     text-decoration: none;
-    background-image: linear-gradient(to right, skyblue, yellow);
+    color: white;
+    background-image: linear-gradient(to right, orangered, rgb(31, 17, 54));
     padding: 15px;
     border-radius: 30px;
 }
