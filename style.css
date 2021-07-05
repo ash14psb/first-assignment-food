@@ -27,11 +27,28 @@ h2{
     display: flex;
     width: 100%;
 }
+.last-section{
+    display: flex;
+    width: 100%;
+    margin-right: 5%;
+}
 .half-width{
     width: 50%;
     margin-left: 50px;
 }
-
+.one-third{
+    width: 36%;
+    height:  550px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 20px 20px 0px 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px red;
+}
+.one-third img{
+    width: 100%;
+    border-radius: 30px;
+}
 .half-width img{
     width: 80%;
     margin: 20px;
@@ -41,8 +58,7 @@ h2{
 }
 #about-me{
     text-align: justify;
-    margin: 20px 30px 40px 50px;
-    padding-right: 100px;
+    padding-right: 80px;
 }
 .para{
     font-size: 20px;
@@ -57,4 +73,17 @@ h2{
     background-image: linear-gradient(to right, skyblue, yellow);
     padding: 15px;
     border-radius: 30px;
+}
+.centre{
+    width: 40%;
+    margin: 0 auto ;
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+#bg-color{
+    background-color: darkblue;
+    text-align: center;
+    padding-top: 20px;
 }
