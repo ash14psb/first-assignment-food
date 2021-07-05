@@ -8,8 +8,17 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+.mid-bg{
+    background-image: url(images/bg-mid.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 h1{
     font-size: 50px;
+}
+h2{
+    font-size: 30px;
+    color: gray;
 }
 .orange{
     color: orange;
@@ -22,18 +31,30 @@ h1{
     width: 50%;
     margin-left: 50px;
 }
+
 .half-width img{
     width: 80%;
     margin: 20px;
+}
+#first-section{
+    padding-left: 60px;
+}
+#about-me{
+    text-align: justify;
+    margin: 20px 30px 40px 50px;
+    padding-right: 100px;
 }
 .para{
     font-size: 20px;
     font-weight: 300;
     color: gray;
 }
+.para-2{
+    font-size: 20px;
+}
 .Link{
     text-decoration: none;
-    background-image: linear-gradient(to right, skyblue, blue);
+    background-image: linear-gradient(to right, skyblue, yellow);
     padding: 15px;
     border-radius: 30px;
 }
