@@ -20,6 +20,8 @@ button{
     background-image: url(images/top-bg.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 h1{
     font-size: 50px;
@@ -78,6 +80,8 @@ h2{
     background-image: url(images/bg-mid.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 .para-2{
     font-size: 20px;
@@ -95,6 +99,8 @@ h2{
     width: 60%;
     margin-left: 20%;
     margin-right: 20%;
+    margin-top: 5%;
+    margin-bottom: 5%;
     padding: 20px 20px 0px 20px;
     border-radius: 30px;
     box-shadow: 10px 10px 40px orangered;
