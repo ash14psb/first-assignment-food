@@ -3,11 +3,6 @@ body{
     font-weight: 700px;
     margin: 0;
 }
-.top-bg{
-    background-image: url(images/top-bg.jpg);
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
 header{
     background-image: url(images/bg-new.jpg);
     width: 100%;
@@ -20,8 +15,8 @@ button{
     padding: 10px;
     border-radius: 20px;
 }
-.mid-bg{
-    background-image: url(images/bg-mid.jpg);
+.top-bg{
+    background-image: url(images/top-bg.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
@@ -48,6 +43,7 @@ h2{
     width: 50%;
     margin-left: 50px;
 }
+
 .one-third{
     width: 36%;
     height:  550px;
@@ -76,6 +72,11 @@ h2{
     font-size: 20px;
     font-weight: 300;
     color: gray;
+}
+.mid-bg{
+    background-image: url(images/bg-mid.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
 .para-2{
     font-size: 20px;
