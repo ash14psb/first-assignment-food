@@ -8,6 +8,18 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
 }
+header{
+    background-image: url(images/bg-new.jpg);
+    width: 100%;
+    color: lightgreen;
+    margin: 0;
+    text-align: center;
+}
+button{
+    background-image: linear-gradient(to right, orange, red);
+    padding: 10px;
+    border-radius: 20px;
+}
 .mid-bg{
     background-image: url(images/bg-mid.jpg);
     background-size: 100%;
@@ -71,9 +83,25 @@ h2{
 .Link{
     text-decoration: none;
     color: white;
+    font-weight: bolder;
     background-image: linear-gradient(to right, orangered, rgb(31, 17, 54));
     padding: 15px;
     border-radius: 30px;
+}
+.flexible99{
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px 20px 0px 20px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 40px orangered;
+}
+.followers{
+    width: 30%%;
+    margin-left: 10%;
+    margin-right: 10%
+}
 }
 .centre{
     width: 40%;
@@ -84,7 +112,7 @@ h2{
     text-align: justify;
 }
 #bg-color{
-    background-color: darkblue;
+    background-color: rgb(23, 139, 0);
     text-align: center;
     padding-top: 20px;
 }
