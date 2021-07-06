@@ -102,17 +102,17 @@ h2{
     margin-left: 10%;
     margin-right: 10%
 }
-}
 .centre{
     width: 40%;
-    margin: 0 auto ;
+    margin: 0 auto;
     text-align: center;
 }
 .justify{
     text-align: justify;
 }
 #bg-color{
-    background-color: rgb(23, 139, 0);
+    background-color: rgba(3, 2, 31, 0.938);
+    color: white;
     text-align: center;
     padding-top: 20px;
 }
